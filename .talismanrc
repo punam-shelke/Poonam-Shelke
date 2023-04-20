@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: themes/github-style
+  checksum: 8f48da25459c9fcc50e60c21218d63f288c58feb078cfb7c8996c3270eeb1c7c
+version: "1.0"
