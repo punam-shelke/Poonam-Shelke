@@ -1,4 +1,16 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = ""
+languageCode = "en-IN"
+title = "Poonam Shelke's blog"
 theme = "github-style"
+
+[params]
+author = "Poonam"
+description = "developer"
+github = "punam-shelke"
+linkedin = "punam-shelke-636626140"
+location = "India"
+userStatusEmoji = "❤️"
+avatar = "/images/profile.jpg"
+
+[frontmatter]
+lastmod = ["lastmod", ":fileModTime", ":default"]
