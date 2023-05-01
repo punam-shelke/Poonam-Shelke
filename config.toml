@@ -11,7 +11,7 @@ linkedin = "punam-shelke-636626140"
 location = "India"
 userStatusEmoji = "❤️"
 avatar = "/images/profile.jpg"
-url = "https://meik2333.com"        #TODO: change the url
+url = "https://google.com"          #TODO: change the url
 
 [frontmatter]
 lastmod = ["lastmod", ":fileModTime", ":default"]
