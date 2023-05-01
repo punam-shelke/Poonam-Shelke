@@ -156,6 +156,8 @@ you will notice above command will create a markdown file in `content/post` fold
 ```md
 <!-- front matter -->
 
+---
+
 title: 'Setup website with hugo'
 date: 2023-05-01T20:42:05+05:30
 draft: true
