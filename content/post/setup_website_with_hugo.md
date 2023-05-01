@@ -151,17 +151,19 @@ This section will enable you to write content for your blog and make it visible 
 hugo new post/name_of_your_post.md
 ```
 
-you will notice above command will create a markdown file in `content/post` folder with front matter. Front matter is the basic information about your blog. It looks like below
+you will notice above command will create a markdown file in `content/post` folder with front matter. Front matter is the basic information about your blog. Add the content for your blog in this file.
 
 ```md
----
+<!-- front matter -->
+
 title: 'Setup website with hugo'
 date: 2023-05-01T20:42:05+05:30
 draft: true
+
 ---
 ```
 
-## Add the content for your blog in this file.
+---
 
 **NOTE**
 
