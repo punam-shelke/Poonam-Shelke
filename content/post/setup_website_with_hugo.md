@@ -161,6 +161,8 @@ date: 2023-05-01T20:42:05+05:30
 draft: true
 
 ---
+
+Your content goes here...
 ```
 
 ---
