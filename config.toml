@@ -11,6 +11,7 @@ linkedin = "punam-shelke-636626140"
 location = "India"
 userStatusEmoji = "❤️"
 avatar = "images/profile.jpg"
+favicon = "images/github.png"
 url = "https://google.com"          #TODO: change the url
 
 [frontmatter]
