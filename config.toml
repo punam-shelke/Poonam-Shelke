@@ -10,7 +10,7 @@ github = "punam-shelke"
 linkedin = "punam-shelke-636626140"
 location = "India"
 userStatusEmoji = "❤️"
-avatar = "/images/profile.jpg"
+avatar = "images/profile.jpg"
 url = "https://google.com"          #TODO: change the url
 
 [frontmatter]
