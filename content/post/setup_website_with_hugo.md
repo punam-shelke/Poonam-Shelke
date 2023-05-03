@@ -277,3 +277,5 @@ jobs:
 
 Once you push the changes, you will be able to see github actions starting deployment of your hugo site.
 And it will be available on your base URL.
+
+Thank you!
